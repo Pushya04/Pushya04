@@ -69,7 +69,7 @@
 ⚙️ Flask, scikit-learn, SMOTE, TfidfVectorizer
 
 ### 👤 [Real-Time Face Recognition](https://github.com/Pushya04)
-> Face recognition pipeline with voice control, antispoofing, PDF report generation, and security features.  
+> Face recognition pipeline with voice control, antispoofing, PDF report generation, and security features.
 ⚙️ OpenCV, FastAPI, Chart.js, Redis
 
 ### 🎬 [Movie Recommendation System](https://github.com/Pushya04)
