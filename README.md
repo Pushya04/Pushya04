@@ -1,36 +1,22 @@
-<h1 align="center">Hi there 👋, I'm Pyaraka Pushyamithra</h1>
-<h3 align="center">AI/ML Enthusiast | Full-Stack Developer | Real-Time Systems Explorer</h3>
+# Hello there, I'm Pyaraka Pushyamithra 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IIIT_Guwahati-B.Tech_in_CSE-blue?style=flat-square&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-%E2%9C%94%EF%B8%8F-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-%E2%9C%94%EF%B8%8F-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20Development-%E2%9C%94%EF%B8%8F-orange?style=flat-square" />
-</p>
+🎓 I'm a Computer Science undergraduate at IIIT Guwahati (Batch of 2026) passionate about building intelligent systems and full-stack applications. My journey spans **Machine Learning**, **Computer Vision**, and **Web Development**, where I enjoy turning complex problems into elegant solutions. I'm also a huge fan of open-source, DevOps, and automation.
+
+📌 **Currently exploring**: AI research, Real-time systems, and full-stack ML applications.
 
 ---
 
-🎓 I'm a Computer Science undergraduate at **IIIT Guwahati (Batch of 2026)**, passionate about building intelligent, adaptive systems and impactful full-stack applications.
-
-💡 I love turning complex challenges into elegant, scalable solutions. I dive deep into AI/ML, Real-Time Systems, and DevOps to craft innovation-driven applications.
-
-📌 **Currently exploring:**  
-- Emotion recognition from EEG using Graph Neural Networks  
-- Real-time computer vision systems  
-- Streamlined web apps with full-stack AI  
-- Secure and scalable cloud deployment
-
----
-
-## 🚀 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushya04&show_icons=true&theme=onedark" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushya04&theme=onedark" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushya04&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pushya04&theme=tokyonight" width="47%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya04&layout=compact&theme=onedark" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya04&layout=compact&theme=tokyonight" width="47%" />
 </p>
+
 
 ---
 
@@ -75,28 +61,27 @@
 ## 🔥 Top Projects
 
 ### 🧠 [EEG Emotion Recognition using GNN](https://github.com/Pushya04/eeg-gnn-emotion-recognition-Deap_Dataset)
-> Applied Spectral GNN on EEG data for valence/arousal prediction  
-⚙️ Python, SciPy, NumPy, Chebyshev Filters, t-SNE
+> Used Graph Neural Networks on EEG signals to predict emotional states with over 63% valence accuracy.  
+⚙️ Python, SciPy, NumPy, Chebyshev Filters, t-SNE, GNNs, Matplotlib
 
 ### 😄 [Sarcasm Detection System](https://github.com/Pushya04/sarcasm-detection-system)
-> ML model with web UI for detecting sarcasm in headlines  
+> NLP-powered model to classify sarcastic and non-sarcastic statements with better accuracy.  
 ⚙️ Flask, scikit-learn, SMOTE, TfidfVectorizer
 
 ### 👤 [Real-Time Face Recognition](https://github.com/Pushya04)
-> Robust face detection with anti-spoofing, reports, and voice control  
+> Face recognition pipeline with voice control, antispoofing, PDF report generation, and security features.  
 ⚙️ OpenCV, FastAPI, Chart.js, Redis
 
 ### 🎬 [Movie Recommendation System](https://github.com/Pushya04)
-> Recommends movies based on NLP sentiment + ratings  
+> A hybrid system using React and NLP to suggest movies based on user reviews.
 ⚙️ React.js, FastAPI, PostgreSQL, Sentiment Analysis
 
 ---
 
 ## 🧩 Mini Projects & Activities
 
-- 🕹️ Snake Game, Tic-Tac-Toe (Tkinter)
+- 🕹️ Snake Game, Tic-Tac-Toe (Tkinter) , Calculator, Weather Prediction
 - 💬 Auto-Reply Chatbot, Diabetes Predictor (Streamlit)
-- 🧠 Face-based Attendance Tracker
 - 👨‍🎓 Volunteer, Entropy'24 Tech Fest – led tech teams and events
 
 ---
