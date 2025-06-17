@@ -1,4 +1,4 @@
-## Hi there 
+## Hey there 
 #  I'm Pyaraka Pushyamithra 👋
 
 🎓 I'm a Computer Science undergraduate at IIIT Guwahati (Batch of 2026) passionate about building intelligent systems and full-stack applications. My journey spans **Machine Learning**, **Computer Vision**, and **Web Development**, where I enjoy turning complex problems into elegant solutions. I'm also a huge fan of open-source, DevOps, and automation.
