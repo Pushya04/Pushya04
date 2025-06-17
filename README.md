@@ -58,8 +58,7 @@
 
 ---
 
-## 🔥 Top Projects
-
+## 🔍 Featured Projects
 ### 🧠 [EEG Emotion Recognition using GNN](https://github.com/Pushya04/eeg-gnn-emotion-recognition-Deap_Dataset)
 > Used Graph Neural Networks on EEG signals to predict emotional states with over 63% valence accuracy.  
 ⚙️ Python, SciPy, NumPy, Chebyshev Filters, t-SNE, GNNs, Matplotlib
@@ -69,11 +68,11 @@
 ⚙️ Flask, scikit-learn, SMOTE, TfidfVectorizer
 
 ### 👤 [Real-Time Face Recognition](https://github.com/Pushya04)
-> Face recognition pipeline with voice control, antispoofing, PDF report generation, and security features.
+> Face recognition pipeline with voice control, antispoofing, PDF report generation, and security features.  
 ⚙️ OpenCV, FastAPI, Chart.js, Redis
 
 ### 🎬 [Movie Recommendation System](https://github.com/Pushya04)
-> A hybrid system using React and NLP to suggest movies based on user reviews.
+> A hybrid system using React and NLP to suggest movies based on user reviews.  
 ⚙️ React.js, FastAPI, PostgreSQL, Sentiment Analysis
 
 ---
