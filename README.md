@@ -71,9 +71,9 @@
 > Face recognition pipeline with voice control, antispoofing, PDF report generation, and security features.  
 ⚙️ OpenCV, FastAPI, Chart.js, Redis
 
-### 🎬 [Movie Recommendation System](https://github.com/Pushya04)
-> A hybrid system using React and NLP to suggest movies based on user reviews.  
-⚙️ React.js, FastAPI, PostgreSQL, Sentiment Analysis
+### 🧮 [Quantisuite – Web Calculator Suite (PWA)](https://github.com/Pushya04/quantisuite)
+> A full-featured calculator suite with scientific, graphing, currency, weather, and unit converters. Fully responsive and installable as a PWA.  
+⚙️ HTML, CSS, JavaScript, GitHub Pages, Open-Meteo API, ExchangeRate API, Canvas, Manifest, Service Worker
 
 ---
 
