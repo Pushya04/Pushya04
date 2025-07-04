@@ -67,9 +67,9 @@
 > NLP-powered model to classify sarcastic and non-sarcastic statements with better accuracy.  
 ⚙️ Flask, scikit-learn, SMOTE, TfidfVectorizer
 
-### 👤 [Real-Time Face Recognition](https://github.com/Pushya04)
-> Face recognition pipeline with voice control, antispoofing, PDF report generation, and security features.  
-⚙️ OpenCV, FastAPI, Chart.js, Redis
+### 📝 [NotoPad Pro – Python Text Editor](https://github.com/Pushya04/NotoPad-Pro)
+> A full-featured desktop text editor with syntax highlighting, auto-save, PDF export, theme switching, and more — built entirely with Python and Tkinter.  
+⚙️ Python, Tkinter, ReportLab, PyEnchant, PyInstaller
 
 ### 🧮 [Quantisuite – Web Calculator Suite (PWA)](https://github.com/Pushya04/quantisuite)
 > A full-featured calculator suite with scientific, graphing, currency, weather, and unit converters. Fully responsive and installable as a PWA.  
@@ -79,7 +79,7 @@
 
 ## 🧩 Mini Projects & Activities
 
-- 🕹️ Snake Game, Tic-Tac-Toe (Tkinter) , Calculator, Weather Prediction
+- 🕹️ Snake Game, Tic-Tac-Toe (Tkinter) 
 - 💬 Auto-Reply Chatbot, Diabetes Predictor (Streamlit)
 - 👨‍🎓 Volunteer, Entropy'24 Tech Fest – led tech teams and events
 
