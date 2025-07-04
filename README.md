@@ -1,6 +1,6 @@
 # Hello there, I'm Pyaraka Pushyamithra 👋
 
-🎓 I'm a Computer Science undergraduate at IIIT Guwahati (Batch of 2026) passionate about building intelligent systems and full-stack applications. My journey spans **Machine Learning**, **Computer Vision**, and **Web Development**, where I enjoy turning complex problems into elegant solutions. I'm also a huge fan of open-source, DevOps, and automation.
+🎓 I'm a Computer Science undergraduate at IIIT Guwahati passionate about building intelligent systems and full-stack applications. My journey spans **Machine Learning**, **Computer Vision**, and **Web Development**, where I enjoy turning complex problems into elegant solutions. I'm also a huge fan of open-source, DevOps, and automation.
 
 📌 **Currently exploring**: AI research, Real-time systems, and full-stack ML applications.
 
@@ -59,13 +59,9 @@
 ---
 
 ## 🔍 Featured Projects
-### 🧠 [EEG Emotion Recognition using GNN](https://github.com/Pushya04/eeg-gnn-emotion-recognition-Deap_Dataset)
+### 🧠 [EEG Emotion Recognition using GNN (Research Project)](https://github.com/Pushya04/eeg-gnn-emotion-recognition-Deap_Dataset)
 > Used Graph Neural Networks on EEG signals to predict emotional states with over 63% valence accuracy.  
 ⚙️ Python, SciPy, NumPy, Chebyshev Filters, t-SNE, GNNs, Matplotlib
-
-### 😄 [Sarcasm Detection System](https://github.com/Pushya04/sarcasm-detection-system)
-> NLP-powered model to classify sarcastic and non-sarcastic statements with better accuracy.  
-⚙️ Flask, scikit-learn, SMOTE, TfidfVectorizer
 
 ### 📝 [NotoPad Pro – Python Text Editor](https://github.com/Pushya04/NotoPad-Pro)
 > A full-featured desktop text editor with syntax highlighting, auto-save, PDF export, theme switching, and more — built entirely with Python and Tkinter.  
@@ -74,6 +70,11 @@
 ### 🧮 [Quantisuite – Web Calculator Suite (PWA)](https://github.com/Pushya04/quantisuite)
 > A full-featured calculator suite with scientific, graphing, currency, weather, and unit converters. Fully responsive and installable as a PWA.  
 ⚙️ HTML, CSS, JavaScript, GitHub Pages, Open-Meteo API, ExchangeRate API, Canvas, Manifest, Service Worker
+
+### 😄 [Sarcasm Detection System](https://github.com/Pushya04/sarcasm-detection-system)
+> NLP-powered model to classify sarcastic and non-sarcastic statements with better accuracy.  
+⚙️ Flask, scikit-learn, SMOTE, TfidfVectorizer
+
 
 ---
 
