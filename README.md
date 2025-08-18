@@ -75,16 +75,13 @@
 > NLP-powered model to classify sarcastic and non-sarcastic statements with better accuracy.  
 ⚙️ Flask, scikit-learn, SMOTE, TfidfVectorizer
 
+### 🩺 [Diabetes Prediction Web App](https://github.com/Pushya04/my-diabetes-app)
+> An interactive web app that predicts diabetes likelihood using a **Random Forest Classifier** trained on the **Pima Indians Diabetes Dataset**.  
+⚙️ Python, Streamlit, scikit-learn, Pandas, Numpy, Matplotlib  
 
+👉 [**Live Demo**](https://my-diabetes-app-i5vvpdkkldhmrt9tnzygph.streamlit.app/)
 ---
 
-## 🧩 Mini Projects & Activities
-
-- 🕹️ Snake Game, Tic-Tac-Toe (Tkinter) 
-- 💬 Auto-Reply Chatbot, Diabetes Predictor (Streamlit)
-- 👨‍🎓 Volunteer, Entropy'24 Tech Fest – led tech teams and events
-
----
 
 ## 📬 Let’s Connect
 
