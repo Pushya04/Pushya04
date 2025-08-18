@@ -79,7 +79,6 @@
 > An interactive web app that predicts diabetes likelihood using a **Random Forest Classifier** trained on the **Pima Indians Diabetes Dataset**.  
 ⚙️ Python, Streamlit, scikit-learn, Pandas, Numpy, Matplotlib  
 
-👉 [**Live Demo**](https://my-diabetes-app-i5vvpdkkldhmrt9tnzygph.streamlit.app/)
 ---
 
 
