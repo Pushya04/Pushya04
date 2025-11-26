@@ -14,15 +14,18 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushya04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pushya04&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" width="49%" />
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushya04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pushya04&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" height="170" />
+  
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushya04&theme=react-dark&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" width="49%" />
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170" />
+  
+</div>
 
 ---
 
@@ -232,23 +235,19 @@ Feature-rich calculator suite with scientific, graphing, currency, weather, and 
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushya04&theme=radical" width="100%" />
-</p>
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushya04&theme=radical" alt="Contribution Graph" />
+  
+</div>
 
-<p align="center">
+<div align="center">
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pushya04&theme=radical" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pushya04&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pushya04&theme=radical" width="32%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pushya04&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pushya04&theme=radical&utcOffset=5.5" width="32%" />
+  
+</div>
 
 ---
 
@@ -294,7 +293,5 @@ Feature-rich calculator suite with scientific, graphing, currency, weather, and 
 <div align="center">
   
   **💡 Open for collaboration on AI/ML and Full-Stack projects!**
-  
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pushya04)
   
 </div>
