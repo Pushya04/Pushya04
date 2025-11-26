@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushya04&theme=react-dark&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
