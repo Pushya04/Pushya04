@@ -14,10 +14,13 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushya04&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pushya04&theme=tokyonight" width="47%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushya04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pushya04&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" height="170" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya04&layout=compact&theme=tokyonight" width="47%" />
