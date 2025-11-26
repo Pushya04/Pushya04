@@ -14,13 +14,14 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushya04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pushya04&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" height="170" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushya04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pushya04&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushya04&theme=react-dark&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" width="49%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya04&layout=compact&theme=tokyonight" width="47%" />
