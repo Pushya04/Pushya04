@@ -14,13 +14,10 @@
 
 ## 📈 GitHub Stats
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushya04&theme=react-dark&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" width="49%" />
 </p>
-
 
 ---
 
@@ -79,6 +76,26 @@
 <tr>
 <td width="50%">
 
+#### 🌡️ [Heatwave Prediction with XAI](https://github.com/Pushya04/Heatwave-Prediction)
+
+<img src="https://img.shields.io/badge/Climate-Research-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Accuracy-97.34%25-success?style=for-the-badge" />
+
+Comprehensive ML framework for 10-day ahead heatwave prediction using Berkeley Earth global temperature data. Implements 7 algorithms with SHAP-based explainability for transparent predictions.
+
+**Tech Stack:** Python • XGBoost • SHAP • scikit-learn • NetCDF4
+
+**Key Features:**
+- 🎯 97.34% accuracy with AdaBoost+MLP ensemble
+- 🔍 SHAP explainability analysis across all models
+- 🌍 Area-weighted sampling for geographic representation
+- 📊 5-fold cross-validation with 98.73% ROC-AUC (XGBoost)
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pushya04/Heatwave-Prediction)
+
+</td>
+<td width="50%">
+
 #### 🧠 [EEG Emotion Recognition using GNN](https://github.com/Pushya04/eeg-gnn-emotion-recognition-Deap_Dataset)
 
 <img src="https://img.shields.io/badge/Research-Project-blueviolet?style=for-the-badge" />
@@ -91,6 +108,8 @@ Used Graph Neural Networks on EEG signals to predict emotional states with over 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pushya04/eeg-gnn-emotion-recognition-Deap_Dataset)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🩺 [Diabetes Prediction Web App](https://github.com/Pushya04/my-diabetes-app)
@@ -105,8 +124,6 @@ Interactive web application that predicts diabetes likelihood using Random Fores
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pushya04/my-diabetes-app)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 😄 [Sarcasm Detection System](https://github.com/Pushya04/sarcasm-detection-system)
@@ -121,6 +138,8 @@ NLP-powered model to classify sarcastic and non-sarcastic statements with improv
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pushya04/sarcasm-detection-system)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 💬 [Empatalk - Mental Health Chatbot](https://github.com/Pushya04/Mental-Health-Chatbot)
@@ -133,6 +152,9 @@ AI-powered mental health chatbot providing supportive conversations, risk detect
 **Tech Stack:** React • Node.js • MongoDB • FastAPI • NLP
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pushya04/Mental-Health-Chatbot)
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -225,8 +247,6 @@ Feature-rich calculator suite with scientific, graphing, currency, weather, and 
 </td>
 </tr>
 </table>
-
----
 
 ---
 
